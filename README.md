@@ -1,2 +1,2 @@
-# Mujeeb-s-website
+# Mujeeb's website
 A Website based on youtube made for use on both desktop and mobile screen...
